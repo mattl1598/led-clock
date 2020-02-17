@@ -2,7 +2,11 @@
 
 ## Changelog:
 
-v1.1 CURRENT - fleshed out the README.md file - 17/02/2020
+v1.2 CURRENT - switched development to a virtual environment from system-wide 
+interpreter for better package management and created the requirements.txt 
+file to go along with this change - 17/02/2020
+
+v1.1 - fleshed out the README.md file - 17/02/2020
 
 v1.0 - uploaded the files to github and created the standard github 
 files. - 17/02/2020
