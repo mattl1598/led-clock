@@ -2,7 +2,10 @@
 
 ## Changelog:
 
-v1.2 CURRENT - switched development to a virtual environment from system-wide 
+v1.3 CURRENT - added creating background colours from an image, generating image for backgrouynd colour, 
+neopixel script for running on a raspberry pi with the rgb leds connected - 20/04/2020
+
+v1.2 - switched development to a virtual environment from system-wide 
 interpreter for better package management and created the requirements.txt 
 file to go along with this change - 17/02/2020
 

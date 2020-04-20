@@ -10,12 +10,13 @@ class Clock:
         self.root.geometry("1000x400")
 
         self.bg = "#bbbbbb"
-        self.fg = "#dd0000"
+        self.fg = "#ffffff"
         self.colours = gen_solid_bg(self.bg)
         self.back = gen_solid_bg(self.bg)
 
         # circles
         self.root.canvas = tkinter.Canvas(self.root, width=1000, height=400)
+        self.root.canvas.configure(background='black')
         self.root.canvas.pack()
 
         self.r = 22
